@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Locale;
 
-public class Key {
+public class PtsTestKey {
     public static String getcurrentDate() {
         Calendar myCalendar = Calendar.getInstance();
         String myFormat = "dd/MM/yyyy";
